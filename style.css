@@ -255,13 +255,16 @@ nav .row ul li a{
 }
 /*...........work end......*/
 /*........contact start.......*/
+#contact .container .section-heading p{ 
+    width:678px;
+    height:82px;
+    margin:auto;
+}
 .background{
     background-color: rgb(41, 39, 39);
     margin-top: 100px;
 }
-#contact .container .section-heading p{ 
-    width:678px;
-    height:82px;}
+
 .background .container .input label{
              font-size:16px;
              color:#7e8287;
