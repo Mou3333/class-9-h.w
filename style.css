@@ -239,6 +239,7 @@ nav .row ul li a{
     font-size: 16px;
 }
 #work .work-card .overlay{
+    margin-top:80px;
     position: absolute;
     background-color: rgba(2, 145, 140, 0.85);
     inset:20px 23px;
