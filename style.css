@@ -259,6 +259,9 @@ nav .row ul li a{
     background-color: rgb(41, 39, 39);
     margin-top: 100px;
 }
+#contact .container .heading-section p{ 
+    width:678px;
+    height:82px;}
 .background .container .input label{
              font-size:16px;
              color:#7e8287;
